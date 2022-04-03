@@ -9,10 +9,10 @@ ___
 
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/96214618/161447425-6a78c8b8-e142-4df2-867f-7526ecec4c42.png?raw=true?raw=true
-[image2]: https://github.com/Ohara124c41/DFND-Flight-Delays-and-Cancellations/blob/master/images/010.png?raw=true?raw=true
-[image3]: https://github.com/Ohara124c41/DFND-Flight-Delays-and-Cancellations/blob/master/images/009.png?raw=true?raw=true
-[image4]: https://github.com/Ohara124c41/DFND-Flight-Delays-and-Cancellations/blob/master/images/007.png?raw=true?raw=true
+[image1]: https://github.com/Mohamedhamedebrahem/Flight-Delays-and-Cancellations/blob/main/images/W0.png?raw=true?raw=true
+[image2]: https://github.com/Mohamedhamedebrahem/Flight-Delays-and-Cancellations/blob/main/images/W1.png?raw=true?raw=true
+[image3]: https://github.com/Mohamedhamedebrahem/Flight-Delays-and-Cancellations/blob/main/images/W2.png?raw=true?raw=true
+[image4]: https://github.com/Mohamedhamedebrahem/Flight-Delays-and-Cancellations/blob/main/images/D1.png?raw=true?raw=true
 
 
 ## Introduction
@@ -32,7 +32,7 @@ This visualization shows a comparison of airlines with delays, given in thousand
 
 A ```Bar Chart``` is used to show data with minimal chart junk. A general negative slope can be seen as a trend.
 
-###### Tableau: https://public.tableau.com/views/Flights_37/Sheet1?:embed=y&:display_count=yes&publish=yes
+###### Tableau: https://public.tableau.com/authoring/Flights_16466427394090/W0#1?:embed=y&:display_count=yes&publish=yes
 
 ## What is the frequency of cancellations by type?
 ![alt text][image2]
